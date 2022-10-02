@@ -1,0 +1,4 @@
+.idea/
+.venv/
+
+django_first/db.sqlite3
