@@ -1,8 +1,7 @@
 .PHONY: homework-i-run
 # Run homework.
 homework-i-run:
-		@cd django_first && \
-		python manage.py runserver
+		@python manage.py runserver
 
 
 .PHONY: homework-i-purge
